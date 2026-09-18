@@ -1,0 +1,1 @@
+print("Visca Barca eta Visca Catalunya")
