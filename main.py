@@ -1,9 +1,11 @@
-print("Visca Barca")
+print("no Barca")
 
 print("Gora Erreala")
 
-print("Hala Madrid")
+print("no Madrid")
 
-print("Força Espanyol")
+print("no Espanyol")
 
-print("Aupa Athletic")
+print("no Athletic")
+
+print("Negreira")
