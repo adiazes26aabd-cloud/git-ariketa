@@ -1,3 +1,3 @@
-print("Visca Barca eta Visca Catalunya")
+print("Visca Barca")
 
-print("Gora Erreala eta Gora Euskal Herria")
+print("Gora Erreala")
